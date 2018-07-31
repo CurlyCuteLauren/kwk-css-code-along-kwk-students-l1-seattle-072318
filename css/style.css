@@ -1,1 +1,16 @@
-/* add CSS class and element and selectors here */
+    body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+   .slasherclass{ background-color: darkblue;
+   color:lightpink;
+   font-size: 250%;
+   }
+   
+   .mooseclass{ color:salmon;font-size: 150%;}
+    /* add CSS class and element and selectors here */
